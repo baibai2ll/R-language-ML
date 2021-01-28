@@ -1,0 +1,10 @@
+name: classifier
+title:
+username:
+account: wmu-bai-lab
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3534165
+bundleId: 4150465
+url: https://wmu-bai-lab.shinyapps.io/classifier/
+when: 1611769271.15546
